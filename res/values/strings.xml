@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, Welcome!</string>
     <string name="app_name">samplemaintenance</string>
+    <string name="login">Login </string>
 </resources>
